@@ -1,15 +1,22 @@
 # HR-Analytics-and-Employee-Performance-Project
-[Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+Power BI Dashboard analysing employee attrition drivers, workforce demographics, and turnover root causes
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 ![Tool](https://img.shields.io/badge/Tool-Power_BI-yellow?style=flat-square&logo=powerbi)
 ![Language](https://img.shields.io/badge/Language-DAX-blue?style=flat-square)
 ![ETL](https://img.shields.io/badge/Data_Prep-Power_Query-green?style=flat-square)
 
-Power BI Dashboard analysing employee attrition drivers, workforce demographics, and turnover root causes
  📊 HR Analytics & Employee Performance Dashboard
 
  📌 Executive Summary
 This project presents an interactive Power BI dashboard designed to analyze employee turnover rates, identify key attrition drivers, and provide actionable HR recommendations. By analyzing workforce demographics, job roles, compensation, and satisfaction metrics, this solution helps HR leadership implement targeted retention strategies to reduce costly employee turnover.
 
+Business Problem
+when employees leave a company,it costs a lot of money and time to hire and train new people.High employee turnover affects teamwork and overall company growth.
+The Management does not clearly know about:
+1.Who is Leaving? which department, job roles or age group have the highest turnover
+2. Why are they leaving? is it because of low salary, overtime workload, or work life balance issue?
+3.How to stop it? How HR can take correct decisions to retain key employees
  🖼️ Dashboard Preview
  
  1. HR Attrition Overview
