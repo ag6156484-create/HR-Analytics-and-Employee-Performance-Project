@@ -1,4 +1,9 @@
 # HR-Analytics-and-Employee-Performance-Project
+[Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Tool](https://img.shields.io/badge/Tool-Power_BI-yellow?style=flat-square&logo=powerbi)
+![Language](https://img.shields.io/badge/Language-DAX-blue?style=flat-square)
+![ETL](https://img.shields.io/badge/Data_Prep-Power_Query-green?style=flat-square)
+
 Power BI Dashboard analysing employee attrition drivers, workforce demographics, and turnover root causes
  📊 HR Analytics & Employee Performance Dashboard
 
