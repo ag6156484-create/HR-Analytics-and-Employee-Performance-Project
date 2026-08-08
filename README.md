@@ -8,18 +8,17 @@ This project presents an interactive Power BI dashboard designed to analyze empl
  🖼️ Dashboard Preview
  
  1. HR Attrition Overview
-![HR Attrition Overview]()
-
- 2. Root Cause & Job Role Analysis
-![Root Cause Analysis]()
-
+    
+   
+2. Root Cause & Job Role Analysis
+   
 3.🛠️ Data Cleaning & Transformations (Power Query)
 The raw dataset was cleaned and structured using *Power Query Editor* to ensure data integrity and accurate analysis:
 
-* Data Type Formatting: Applied strict data types across numeric (Age, MonthlyIncome, TotalWorkingYears) and categorical attributes.
-* Missing & Duplicate Value Handling:* Checked and removed duplicate records and handled missing fields.
-* Custom Conditional Columns: Created age groups (<25, 25-34, 35-44, 45+) ,tenure buckets ,income bucket for granular demographic cohort analysis.
-* Data Standardization:* Cleaned text entries and mapped binary attrition categories (Yes / No) for accurate DAX aggregation.
+* Data Type Formatting: Applied strict data types across numeric (Age, MonthlyIncome,TotalWorkingYears) and categorical attributes.
+* Missing & Duplicate Value Handling: Checked and removed duplicate records and handled missing fields.
+* Custom Conditional Columns: Created age groups (<25, 25-34, 35-44, 45+) ,tenure buckets,income bucket for granular demographic cohort analysis.
+* Data Standardization: Cleaned text entries and mapped binary attrition categories (Yes / No) for accurate DAX aggregation.
 
  📐 Key DAX Measures
 Core KPI calculations built using *Data Analysis Expressions (DAX)* in Power BI:
