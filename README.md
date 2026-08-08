@@ -8,7 +8,7 @@ This project presents an interactive Power BI dashboard designed to analyze empl
  🖼️ Dashboard Preview
  
  1. HR Attrition Overview
-![HR Attrition Overview](Attrition Dashboard.png)
+![HR Attrition Overview]()
 
  2. Root Cause & Job Role Analysis
 ![Root Cause Analysis]()
